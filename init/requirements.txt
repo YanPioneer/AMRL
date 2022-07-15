@@ -1,0 +1,8 @@
+gym==0.14.0
+matplotlib==3.5.1
+mujoco-py==1.50.1.68
+numpy==1.21.5
+protobuf==3.19.4
+tensorboard==1.14.0
+tensorboardX==2.5.1
+torch==1.2.0
